@@ -18,3 +18,5 @@ The objective of the research group is to gather information about usability, di
 Firstly, we held discussions about what is usability, how do we see usability being thought of in real world projects and what methods are used to improve the experience of the users with our products, and what challenges do we face when thinking of usability and usability testing.
 
 We later took a look at Design Thinking as a framework and the ten usability heuristics explained by Jakob Nielsen. We are currently taking a practical approach on Google's Design Sprint, by choosing a topic or a problem that we want to improve on, do some field research at home or with colleagues and discussing it in a live session.
+
+As of june, we have explored the first 5 phases of Google's Design Sprint Kit. This includes understanding, defining, sketching, deciding and prototyping. We will be taking a look at the validation phase soon.
